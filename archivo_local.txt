@@ -1,1 +1,2 @@
 Línea 1 desde repo local
+Línea 2 desde repo local
